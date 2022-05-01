@@ -1,0 +1,41 @@
+ol{
+    color: palevioletred;
+}
+*{
+    margin: 0 auto;padding: 10px;
+}
+*{
+    text-align: left;
+
+}
+strong{
+    color: rgb(255, 0, 200);
+}
+p{
+    color: black;
+}
+body{
+   margin: 0 auto; padding: 8px; 
+   background-color: rgb(240, 250, 240);
+   display: block;  
+}
+h1{
+font-size: small;
+}
+button{
+    background-color: #EC4067;
+}
+h3{
+    font-size: large;
+    color: rgb(238, 128, 223)
+}
+    summary{
+        align-items: center;
+        block-size: auto;
+        font-size: x-small;
+    }
+    link{
+        font-family: Nunito;
+        font-size: 22px;
+        
+    }
